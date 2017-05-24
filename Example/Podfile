@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'glowing-umbrella_Example' do
+  pod 'glowing-umbrella', :path => '../'
+
+  target 'glowing-umbrella_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
