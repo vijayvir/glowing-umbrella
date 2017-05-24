@@ -1,0 +1,16 @@
+PODS:
+  - glowing-umbrella (0.1.0)
+
+DEPENDENCIES:
+  - glowing-umbrella (from `../`)
+
+EXTERNAL SOURCES:
+  glowing-umbrella:
+    :path: ../
+
+SPEC CHECKSUMS:
+  glowing-umbrella: ab11a2023c64c56b0b53ceb373fa7f6848620b3d
+
+PODFILE CHECKSUM: 1bfbe9e293a11713756e6311d66de24d3a2e9c10
+
+COCOAPODS: 1.2.1

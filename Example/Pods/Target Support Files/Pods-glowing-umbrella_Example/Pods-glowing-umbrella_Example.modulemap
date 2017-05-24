@@ -1,0 +1,6 @@
+framework module Pods_glowing_umbrella_Example {
+  umbrella header "Pods-glowing-umbrella_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

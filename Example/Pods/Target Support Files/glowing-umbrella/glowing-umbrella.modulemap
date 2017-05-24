@@ -1,0 +1,6 @@
+framework module glowing_umbrella {
+  umbrella header "glowing-umbrella-umbrella.h"
+
+  export *
+  module * { export * }
+}
